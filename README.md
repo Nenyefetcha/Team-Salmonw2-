@@ -61,7 +61,7 @@ This project is aimed at developing a platform that offers a donation page where
 - [@Inioluwa2003](https://github.com/Inioluwa2003)
 - [@adenijiridwan43](https://github.com/adenijiridwan43)
 - [@swarthyhappy](https://github.com/swarthyhappy)
-- [@addusername](https://github.com/addusername)
+- [@Nenyefetcha](https://github.com/Nenyefetcha)
 - [@addusername](https://github.com/addusername)
 - [@addusername](https://github.com/addusername)
 - [@addusername](https://github.com/addusername)
@@ -75,5 +75,5 @@ This project is aimed at developing a platform that offers a donation page where
 - [@addusername](https://github.com/addusername)
 - [@addusername](https://github.com/addusername)
 - [@Hamesh](https://github.com/Hameshh)
-
+- [@Nenyefetcha](https://github.com/Nenyefetcha)
 
